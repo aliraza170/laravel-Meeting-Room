@@ -19,7 +19,7 @@ BigBlueButton is an open-source web conferencing system. It is based on GNU/Linu
 
 I have designed this wrapper for the ease of use to create online conferencing application in laravel, currently I am using laravel 5.3 for this application but in future I will update the laravel version. 
 
-#Settings and Configuration
+## Settings and Configuration
 
 You can define Big blue button secret key and server url in two ways. 
 1. Define in .env file
@@ -40,7 +40,7 @@ You can also manage meetings using the facade
 Meeting::all(); //get a list of all meetings
 ```
 
-#Contact Developer
+## Contact Developer
 
 ```Aliraza170@gmail.com```
 
